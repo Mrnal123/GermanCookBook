@@ -3,6 +3,13 @@ import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
 import Link from 'next/link'
 
+interface TeamMember {
+  name: string;
+  role: string;
+  image: string;
+  bio?: string; // Optional bio property
+}
+
 const AboutPage = () => {
   const [headerRef, headerInView] = useInView({
     triggerOnce: true,
@@ -24,7 +31,7 @@ const AboutPage = () => {
     threshold: 0.2,
   });
   
-  const teamMembers = [
+  const teamMembers: TeamMember[] = [
     {
       name: 'Mrunal Samal',
       role: 'Teamleiter',
@@ -236,7 +243,7 @@ const AboutPage = () => {
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-1">{member.name}</h3>
                 <p className="text-german-red font-medium mb-3">{member.role}</p>
-                <p className="text-gray-600">{member.bio}</p>
+                {member.bio && <p className="text-gray-600">{member.bio}</p>}
               </div>
             </motion.div>
           ))}
