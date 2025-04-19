@@ -34,7 +34,7 @@ const AboutPage = () => {
   const teamMembers: TeamMember[] = [
     {
       name: 'Mrunal Samal',
-      role: 'Teamleiter',
+      role: 'Teammitglied',
       image: '/images/Mrunal.jpg'
     },
     {
