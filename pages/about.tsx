@@ -57,7 +57,7 @@ const AboutPage = () => {
     {
       name: 'Prahshansha',
       role: 'Teammitglied',
-      image: '/images/prashansha.jpg'
+      image: '/images/prashansa.jpg'
       
     }
   ];
