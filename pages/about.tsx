@@ -108,7 +108,7 @@ const AboutPage = () => {
                 Das Kochbuch begann als bescheidene Sammlung von Familienrezepten, die über Generationen weitergegeben wurden. Was als persönliches Projekt zur Bewahrung unseres Erbes begann, hat sich zu einer umfassenden Ressource für deutsche Küche-Enthusiasten auf der ganzen Welt entwickelt.
               </p>
               <p>
-                Gegründet im Jahr 2010, hat unser Team Jahre damit verbracht, authentische deutsche Rezepte aus verschiedenen Regionen zu recherchieren, zu testen und zu dokumentieren. Wir sind durch ganz Deutschland gereist, von den herzhaften Gerichten Bayerns bis zu den Meeresspezialitäten des Nordens, um Ihnen die authentischsten Geschmackserlebnisse zu bieten.
+              Diese Website wurde 2025 entwickelt und ist das Ergebnis engagierter Recherche und der Bemühungen, authentische deutsche Rezepte aus verschiedenen Regionen zu präsentieren. Von herzhaften Hausmannskost-Gerichten aus Bayern bis hin zu den schmackhaften Fischgerichten aus Norddeutschland habe ich diese Sammlung zusammengestellt, um Ihnen einen Einblick in die reichhaltige kulinarische Tradition Deutschlands zu geben – alles auf einer interaktiven Plattform.
               </p>
               <p>
                 Jedes Rezept in unserer Sammlung wurde in Heimküchen sorgfältig getestet, um sicherzustellen, dass sie für Köche aller Kenntnisstufen zugänglich sind. Wir glauben, dass die deutsche Küche bewahrt und gefeiert werden sollte, und wir setzen uns dafür ein, diese Traditionen mit Feinschmeckern überall zu teilen.
